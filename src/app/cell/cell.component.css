@@ -1,0 +1,11 @@
+div {
+    height: 120px;
+    width: 120px; 
+    background-color: navy; 
+    float: left; 
+    margin: 0 2px 2px 0; 
+    color: white; 
+    text-align:center;
+    vertical-align:middle;
+    font-size: 65px;
+}

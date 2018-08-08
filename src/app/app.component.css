@@ -1,0 +1,15 @@
+.board {
+    text-align: center;
+    margin-left:23%;
+    margin-right:20%;
+    /* margin-top:5%; */
+    height:450px;
+    padding-left:15%  
+}
+.Winner{
+    margin-left:25px;
+    font-size: 65px;
+    color: red;
+    font-family: fantasy;
+    text-align: center;
+}

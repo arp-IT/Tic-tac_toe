@@ -1,0 +1,22 @@
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+.Winner{
+    float: left;
+    margin-left:25px;
+    font-size: 35px;
+    color: red;
+    font-family: fantasy;
+}
+.playagain {
+  background-color: #f6b319;
+  width: 150px;
+  height: 30px;
+  border:none;
+  padding: 5px;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+}
